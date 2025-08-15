@@ -1,18 +1,24 @@
-# Task 1 – Sales Performance Dashboard (Excel)
+# Task 1: Sales Performance Dashboard (Excel)
 
 ## 📌 Overview
 This task involves building a **Sales Performance Dashboard** in Excel using the **Superstore Sales Dataset** from Kaggle.  
 The goal is to clean, analyze, and visualize sales data to gain actionable business insights.
 
-## 📂 Dataset
+---
+
+## 📂 Dataset & Format
 - **Source:** [Superstore Sales Dataset – Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting?resource=download)
 - **Format:** `.csv`, `.xlsx`
+
+---
 
 ## 🛠 Tools Used
 - **Microsoft Excel**  
   - Formatting & formulas
   - Pivot tables & charts
   - Slicers for interactive filtering
+
+---
 
 ## 📊 Steps Performed
 1. **Data Import** – Load the Superstore dataset into Excel.  
@@ -34,7 +40,9 @@ The goal is to clean, analyze, and visualize sales data to gain actionable busin
    - Monthly order date
 7. **Additional Metrics** – Calculate:
    - **Year-over-Year (YoY)** change
-   - **Month-over-Month (MoM)** change
+   - - **Month-over-Month (MoM)** change
+
+---
 
 ## 📈 Key Learnings
 - Excel basics for business analytics
@@ -42,6 +50,8 @@ The goal is to clean, analyze, and visualize sales data to gain actionable busin
 - Creating clean, professional charts
 - Applying slicers for interactive dashboards
 - Calculating business growth metrics (YoY, MoM)
+
+---
 
 ## 🖼 Sample Output
 <img width="1665" height="748" alt="Screenshot 2025-08-14 210928" src="https://github.com/user-attachments/assets/3a8f645f-ac7b-4935-b367-5ed7f29f9194" />
