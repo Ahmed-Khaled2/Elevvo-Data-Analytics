@@ -1,7 +1,8 @@
 # Task 2: Exploratory Data Analysis on Titanic Dataset
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)  [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)](https://pandas.pydata.org/)  [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?logo=plotly)](https://matplotlib.org/)  [![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-9cf?logo=python)](https://seaborn.pydata.org/)  [![Kaggle](https://img.shields.io/badge/Kaggle-Datasets-blue?logo=kaggle)](https://www.kaggle.com/)
 
 ## 📌 Overview
-This task explores the classic **Titanic** dataset from the [Kaggle: Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset).  
+This task explores the classic **Titanic** dataset.  
 The goal is to perform **Exploratory Data Analysis (EDA)** to uncover insights into passenger survival patterns.
 
 The analysis includes:
@@ -13,20 +14,7 @@ The analysis includes:
 
 ## 📂 Dataset & Format
 - **Source:** [Titanic Dataset (Kaggle)](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
-  - The dataset contains passenger information such as:
-    - Demographics (Name, Age, Sex)
-    - Socioeconomic status (Pclass)
-    - Ticket and fare details
-    - Survival outcome
-- **Format:** `.csv`, `.ipynb`
-
----
-
-## 🛠 Tools & Libraries
-- **Python**
-- **Pandas** – Data manipulation and analysis
-- **Seaborn** – Statistical data visualization
-- **Matplotlib** – Plotting and charts
+- **Format:** `.csv`
 
 ---
 
