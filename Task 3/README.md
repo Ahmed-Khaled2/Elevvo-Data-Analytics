@@ -1,5 +1,5 @@
 # Task 3: Customer Segmentation Using RFM Analysis
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)  [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)](https://pandas.pydata.org/)  [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?logo=plotly)](https://matplotlib.org/)  
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)  [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)](https://pandas.pydata.org/)  [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?logo=plotly)](https://matplotlib.org/)  [![Kaggle](https://img.shields.io/badge/Kaggle-Datasets-blue?logo=kaggle)](https://www.kaggle.com/)
 ## 📌 Overview
 This task focuses on **Customer Segmentation** using the **RFM (Recency, Frequency, Monetary) model**.  
 By analyzing customer behavior, we group customers into meaningful segments and to help suggest simple marketing strategies.  
