@@ -1,31 +1,19 @@
-# Task 6: Web Scraping and Analysis of Job Postings
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)  [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)](https://pandas.pydata.org/)  [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?logo=plotly)](https://matplotlib.org/)  [![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-9cf?logo=python)](https://seaborn.pydata.org/)  [![re](https://img.shields.io/badge/re-regex-blue)](https://docs.python.org/3/library/re.html)  [![undetected-chromedriver](https://img.shields.io/badge/undetected--chromedriver-uc-green)](https://pypi.org/project/undetected-chromedriver/)  [![Selenium](https://img.shields.io/badge/Selenium-webdriver-orange)](https://www.selenium.dev/)  [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-bs4-purple)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)  [![time](https://img.shields.io/badge/time-python-yellow)](https://docs.python.org/3/library/time.html)
-
+# Task 8: Power BI Dashboard for Retail Insights
+[![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811?logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)  [![Kaggle](https://img.shields.io/badge/Kaggle-Data%20Science-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/)  [![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
 ## 📌 Overview
-This task focuses on scraping job listings from a real website like [Glassdoor](https://www.glassdoor.com/Community/index.htm)  
-By scraping this data we can extract meaningful insights about the current market.
-
-The analysis includes:
-- Data cleaning and preprocessing
-- Extract fields such as job title, location, company, skills, and posted date
-- Visualizing key patterns and correlations
+This task is  exactly like [Task 1](https://github.com/Ahmed-Khaled2/Elevvo-Data-Analytics/tree/main/Task%201) which involves building a Sales Performance Dashboard but in Power BI.  
+The published link is available [here](https://app.powerbi.com/links/2-DgkgkRtu?ctid=23db6e06-05c4-489d-b136-cba94a8e6f36&pbi_source=linkShare)
 
 ---
 
-## 📊 Covered Topics
-- Data Cleaning & Preprocessing  
-- Web Scraping  
-- Visualization
- 
----
-
-## 📊 Insights
-- **Salaries of Data Analyst Job:** The average appears to be around 110K USD
-- **Top 10 Best & Worse Rated Companies:** Volto Consulting is the highest rated company, while Botrista is the lowest. 
+## 📂 Dataset & Format
+- **Source:** [Superstore Sales Dataset – Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting?resource=download)
+- **Format:** `.csv`
 
 ---
 
 ## 📷 Visual Examples
-<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/412d3feb-1528-4c57-9a26-7bba79f5c4b7" />
+
+<img width="1463" height="825" alt="Screenshot 2025-08-25 201253" src="https://github.com/user-attachments/assets/819d905c-60b1-435e-9791-626f801aa8b4" />
 
 ---
