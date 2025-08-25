@@ -1,0 +1,469 @@
+GD.i18n.addMsgBundle({
+  "default": {
+    "smartling": {
+      "translate_paths": {
+        "path": "/*",
+        "key": "/{*}"
+      },
+      "variants_enabled": "true"
+    },
+    "_": "JSON MESSAGE BUNDLE - do not remove",
+    "dynamic": {
+      "signUp": {
+        "heading": {
+          "employerProfile": {
+            "salaries": "See more [employer] salaries with a free account",
+            "reviews": "Keep browsing [employer] reviews with a free account",
+            "overview": "Learn more about [employer] with a free account",
+            "interviews": "Millions of interview questions, always free",
+            "jobs": "Keep browsing jobs with a free account"
+          },
+          "salarySearch": "See more [jobTitle] salaries for free",
+          "default": "Authentic reviews and insights, always free"
+        }
+      }
+    },
+    "msgCreateAccountHeading": "Sign Up for Glassdoor",
+    "msgSignInHeading": "Sign In to Glassdoor",
+    "msgSignInSocialWithSameEmail": "Sign in right now with another service that uses this email address.",
+    "msgFacebookPrivacyNote": "Everything you view and do on Glassdoor is private",
+    "msgFacebookNeedEmail": "It seems you have blocked Facebook from sharing your email address with us. Please provide an email address to create a Glassdoor account.",
+    "msgHeaderCreateAccountHeading": "Sign Up to get instant access to millions of salaries and reviews",
+    "msgHeaderSignInHeading": "Sign In to get instant access to millions of salaries and reviews",
+    "msgWelcomeUser": "Welcome user",
+    "msgCheckEmailForActivation": "<b>One more step!</b> Please check your email to activate your account.",
+    "msgCheckEmailForPwdResetLink": "Please check your email for the Reset Password link.",
+    "msgLoginGenericError": "Error. Please try again!",
+    "msgEmailAndPwdMandatory": "Email and Password are mandatory.",
+    "msgEmailMandatory": "Email is mandatory.",
+    "msgSpinnerTxtRegistering": "Registering...",
+    "msgSpinnerTxtSigningIn": "Signing you in...",
+    "msgSpinnerTxtPleaseWait": "Please wait...",
+    "msgErrorEmailAddressInUse": "That email address is already in use. If you already have an account, please sign in.",
+    "msgLoginForResume": "Sign in to upload your resume and easily apply to jobs",
+    "msgSignUpForResume": "Sign up to upload your resume and easily apply to jobs",
+    "msgSignInForSaves": "Sign in to save jobs and apply to them later",
+    "msgSignUpForSaves": "Sign up to save jobs and apply to them later",
+    "msgSignUpUnlimitedAccess": "Get unlimited access to all the reviews and salaries on Glassdoor",
+    "msgSignInForApplyStartEmail": "Sign in to get personalized insights about this job",
+    "msgSignUpForApplyStartEmail": "Finished applying?<br/>Get free, personalized interview prep for this job instantly",
+    "recaptchaPublicKey": "6Lej8UwUAAAAANV3V5Ow5gJo2-pHj9p5ko8igIe-",
+    "msgCheckEmailForActivationAdrs": "Please check your email at [email] to finish activating your account",
+    "msgMlpIPadSignIn": "Sign In to finish your review and be entered into an iPad drawing",
+    "msgMlpIPadSignUp": "Sign Up to finish your review and be entered into an iPad drawing",
+    "msgSignInToCloseAccount": "Please sign in again to close your account",
+    "userLogin": {
+      "common": {
+        "or": "Or",
+        "lowerOr": "or",
+        "signInLabel": "Sign In",
+        "signUpLabel": "Sign Up",
+        "register": "Register",
+        "continueLabel": "Continue",
+        "continueWithEmailLabel": "Continue with Email",
+        "showPasswordLabel": "Show password"
+      },
+      "signIn": {
+        "heading": "Sign In to get instant access to millions of salaries and reviews",
+        "headingFree": "Sign In to get free access to millions of salaries and reviews",
+        "dontHaveAccount": "Don't have an account?",
+        "signingIn": "Signing you in...",
+        "fullScreen": {
+          "welcome": "Welcome Back!",
+          "heading": "Sign in to see your personalized jobs, reviews, and salaries to help you find the job you love."
+        },
+        "withEmail": {
+          "emailLabel": "Email Address",
+          "passwordLabel": "Password",
+          "btnLabel": "Sign In"
+        },
+        "withFacebook": {
+          "btnLabel": "Continue with Facebook"
+        },
+        "withGoogle": {
+          "btnLabel": "Continue with Google"
+        },
+        "withApple": {
+          "btnLabel": "Continue with Apple"
+        },
+        "forgotPwd": {
+          "heading": "Forgot Your Password?",
+          "email": "Email",
+          "link": "Forgot Password",
+          "checkEmail": "Please check your email for the Reset Password link.",
+          "enterEmail": "Please enter your email address and we will send you an email with instructions for resetting your password.",
+          "reset": "Reset",
+          "back": "Back to Sign In",
+          "pleaseWait": "Please wait...",
+          "sendAnotherEmail": "Not seeing the email we sent you? Go ahead and enter your email address and we'll send you another."
+        },
+        "captcha": {
+          "getAnother": "Get another CAPTCHA",
+          "getAudio": "Get an audio CAPTCHA",
+          "getImage": "Get an image CAPTCHA",
+          "help": "help",
+          "enterText": "Enter the text...",
+          "invalid": "The words you entered did not match the security image below.  Please try again."
+        }
+      },
+      "signUp": {
+        "heading": "Sign Up to get instant access to millions of salaries and reviews",
+        "headingFree": "Sign Up for free to access millions of salaries and reviews",
+        "legalMessage": "By creating an account, I agree to Glassdoor's [startLinkTU]Terms of Use[endLinkTU] and [startLinkPP]Privacy Policy[endLinkPP].",
+        "alreadyHaveAccount": "Already have an account?",
+        "noThanksLink": "No thanks – I'll just look around",
+        "signingUp": "Registering...",
+        "continueUsing": "Sign up for free to continue using Glassdoor",
+        "fullScreen": {
+          "heading": "Register for Free to Unlock All Reviews, Salaries, and Jobs",
+          "benefits": {
+            "0": "Research Companies",
+            "1": "Know Your Worth",
+            "2": "Apply to Jobs"
+          }
+        },
+        "valueProps": {
+          "generic": {
+            "0": "Find out what it's like at a company by reading employee reviews",
+            "1": "Research salaries to help you negotiate your offer or pay raise",
+            "2": "Search millions of jobs from across the web with one click"
+          }
+        },
+        "withEmail": {
+          "emailLabel": "Create account with Email",
+          "placeholder": "your.name@provider.com",
+          "passwordLabel": "Password",
+          "passwordHelperText": "Password must be at least 8 characters, no spaces",
+          "btnLabel": "Continue with Email",
+          "emailLabelAlt": "Create Account with Email",
+          "passwordLabelAlt": "Create a Password",
+          "chooseAPassword": "Choose a Password",
+          "whatsYourEmail": "What's Your Email?"
+        },
+        "withFacebook": {
+          "btnLabel": "Continue with Facebook"
+        },
+        "withGoogle": {
+          "btnLabel": "Continue with Google"
+        }
+      },
+      "postJob": {
+        "label": "Are you hiring?",
+        "link": "Post jobs free today"
+      },
+      "requestPwd": {
+        "heading": "Create New Password",
+        "description": "You need to create a new password to access this account. We'll send you an email with a link at <strong>[email]</strong> to set your password.",
+        "pwdRequestSuccess": "We sent you an email with a link to set your password. Sign in here with your new password to continue what you were doing.",
+        "btnLabel": "Request Password Link",
+        "socialHeading": "Sign in with Facebook or Google",
+        "useDifferentAccount": "Use a different account?",
+        "tooltipLabel": "Why am I seeing this",
+        "tooltipContent": "You may have never created an account password, or your existing password needs to be updated to be more secure. If you have another account, you may go back to sign in."
+      },
+      "requestPwdReset": {
+        "heading": " Your password has been reset",
+        "description": "As part of our ongoing security efforts, we are requiring you to reset your password."
+      },
+      "error": {
+        "generic": "Error. Please try again!",
+        "emailAndPwdRequired": "Email and Password are mandatory.",
+        "emailRequired": "Email is mandatory.",
+        "emailInvalid": "Please enter a valid email address.",
+        "emailInUse": "That email address is already in use. If you already have an account, please sign in.",
+        "proveNotABot": "Oops! It seems like you had some trouble logging in before.  Please prove to us you're not a bot and retry with your credentials.",
+        "enterValidEmail": "Please enter a valid email address.",
+        "emailInvalidInline": "Email address is not valid.",
+        "passwordRequired": "Password is mandatory.",
+        "passwordInvalid": "Password must be at least 8 characters, no spaces.",
+        "passwordInvalidInline": "Password is not valid.",
+        "passwordWeak": "In order to keep your account secure, please choose a different password",
+        "af": "Error. Please try again!",
+        "udne": "Sign in with Apple account does not exist. Please try a different sign in method",
+        "codeDoesNotMatch": "Code is incorrect",
+        "tooManyRequests": "Too many codes requested. Make sure your phone number is correct and try again later.",
+        "showCaptchaWasntVisible": "Please prove to us you're not a bot and retry with your credentials.",
+        "incorrectPassword": "The password you specified is invalid. Please try again.",
+        "sessionExpired": "Your session has timed out, please try again.",
+        "tryAgain": "Something went wrong! Please try again...",
+        "compromisedUser": "As part of our ongoing security efforts, we are requiring you to reset your password. Please reset your password by re-entering your email and clicking \"forgot password\".",
+        "newUserEC": "If you are trying to sign up for a Glassdoor employer account, please ​<a href=\"/employers/sign-up/#/\" class=\"link\">sign up here</a>",
+        "invalidSocialPermissions": "It seems you have blocked Facebook from sharing your email address with us. Please provide an email address to create a Glassdoor account."
+      },
+      "socialOptIn": {
+        "headline": "Welcome to Glassdoor!",
+        "subHeadline": "Now let's create an account so you can:",
+        "valueProps": {
+          "generic": {
+            "0": "Find the right job out of millions of possibilities.",
+            "1": "Research companies, interviews, and negotiate your salary.",
+            "2": "Apply for jobs directly on Glassdoor, it’s that easy."
+          }
+        }
+      },
+      "socialLinks": {
+        "signUpMsg": "Sign Up with",
+        "facebookLabel": "Facebook",
+        "googleLabel": "Google"
+      },
+      "imageModal": {
+        "headline": "Don't be a stranger.",
+        "subHeadline": "Personalize your search, research companies and apply to jobs, all in one place.",
+        "emailPlaceholder": "Create account with email",
+        "passwordPlaceholder": "Password",
+        "btnLabel": "Create FREE account"
+      },
+      "oneTap": {
+        "welcome": "Welcome to Glassdoor",
+        "subHeading": "Glassdoor has millions of jobs so you can find the one you love.",
+        "continue": "Continue"
+      },
+      "mfa": {
+        "enterCodeSMS": "Enter the code we’ve sent to the phone number ending with [last2Digits]",
+        "enterCodeApp": "Enter the code you see on your authenticator app",
+        "haventReceivedYourCode": "Haven't received your code?",
+        "resendCode": "Resend code by SMS",
+        "resending": "Resending",
+        "messageResent": "Message has been re-sent",
+        "verify": "Verify",
+        "verifying": "Verifying",
+        "cancel": "Cancel",
+        "done": "Done",
+        "enterPassword": "For your security, enter your password to make this change",
+        "verifyFirstStep": "First, for your security enter your password to confirm this change",
+        "verifySecondStepSMS": "Finally, enter the code we’ve sent to the phone number:",
+        "verifySecondStepAuth": "Finally, enter the code you see on your Authenticator app",
+        "pleaseWaitResend": "Please wait 30 secs before resending"
+      },
+      "doNotSell": {
+        "title": "Opt-out",
+        "label": "I would like to opt out of having Glassdoor sell or share my personal information (as described above).",
+        "notice": "Notice",
+        "noticeWithLoggedOutMessage": "Notice: If you choose to opt out you may miss out on some of the benefits of having your data used as described above. Please also be aware that we don’t currently offer a method to reverse this choice.",
+        "loggedOutMessage": "If you choose to opt out you may miss out on some of the benefits of having your data used as described above. Please also be aware that we don’t currently offer a method to reverse this choice.",
+        "optOut": "Opt Out",
+        "savedTitle": "Opt Out Preference Saved",
+        "successMessage": "You have opted out successfully. Glassdoor will not “sell” or “share” your personal information (as described above).",
+        "loginPrompt": "Please <strong class=\"link\">login</strong> to apply it to your account."
+      },
+      "verifyAccount": {
+        "title": "Verify your email address to avoid being locked out of your Glassdoor account.",
+        "requirement": "To protect our users and our platform, Glassdoor requires all users to verify their email address within 90 days of account creation.",
+        "defaultEmailParam": "your email address",
+        "instructions": "Please follow the instructions in the email sent to [emailAddress] to retain your account, and unlock access to thousands of company reviews, salaries, and more.",
+        "warning": "If you do not verify your email address, Glassdoor will delete your account.",
+        "cta": "Resend Activation Email",
+        "error": "We were unable to resend your activation email. Please try again.",
+        "needHelp": "Need help?",
+        "helpLink": "https://help.glassdoor.com/s/article/Validate-your-Glassdoor-account?language=en_US"
+      },
+      "changePassword": {
+        "success": "Your password has been changed",
+        "supplied.password.incorrect": "Incorrect password. Please try again.",
+        "confirmation.password.does.not.match": "The two passwords do not match.",
+        "password.invalid.format": "Your password must be between 8 and 500 characters long and cannot include any spaces.",
+        "password.compromised.for.user": "In order to keep your account secure, please choose a different password.",
+        "password.too.common": "The password you just entered is too common. Please enter a more secure password.",
+        "password.same.as.current": "You must choose a new password for this account.",
+        "hrtech.sso.user.ineligible": "You may only change your password through the Indeed + Glassdoor unified login experience. Please check your email for a password reset link."
+      },
+      "loginOrReg": {
+        "heading": "Create an Account or Sign In.",
+        "headingFull": "Create an account or sign in to continue using Glassdoor",
+        "emailPlaceholder": "Enter Email",
+        "newUserHeading": "Welcome to Glassdoor.",
+        "newUserMsg": "Create your account as <strong>[email]</strong>",
+        "newUserAltEmail": "Register with a different email.",
+        "newUserBtnLabel": "Create Account",
+        "returningUserHeading": "Welcome back to Glassdoor.",
+        "returningUserEmailMsg": "Sign in to your account as <strong>[email]</strong>",
+        "returningUserFacebookMsg": "Sign in with your Facebook account as <strong>[email]</strong>.",
+        "returningUserGoogleMsg": "Sign in with your Google account as <strong>[email]</strong>.",
+        "returningUserAppleMsg": "Sign in with your Apple account as <strong>[email]</strong>.",
+        "returningUserAltEmail": "Sign in with a different email.",
+        "deletedUserHeading": "Account Deleted",
+        "deletedUserMsg": "Your account has been deleted. Please [html1]contact our support team[html2] to reactivate your account."
+      },
+      "glassbowl": {
+        "authHeader": "Create a Glassdoor account or sign in to get started",
+        "invalidMinimumCharactersError": "Please enter at least two alpha-numeric characters",
+        "jobTitleForm": {
+          "newUser": {
+            "title": "What do you do for work?",
+            "subtitle": "Glassdoor's new community allows you to connect with professionals anonymously. To ensure our community has real, verified professionals, we'll need a few basic details."
+          },
+          "existingUser": {
+            "title": "We can register you with your existing Fishbowl account!",
+            "subtitle": "It looks like you've been to Fishbowl before. Let's connect your account at <strong>[email]</strong> so you can post questions in the community on Glassdoor."
+          },
+          "jobTitle": {
+            "label": "Job Title",
+            "placeholder": "Enter Job Title",
+            "subtext": "This is your default identity when posting questions",
+            "error": "Please enter your occupation."
+          },
+          "industry": {
+            "label": "Area of Work",
+            "placeholder": "Select Area of Work"
+          },
+          "division": {
+            "label": "Specialization",
+            "placeholder": "Select Specialization"
+          },
+          "location": {
+            "label": "Location",
+            "placeholder": "Enter Location",
+            "error": "Please select a US city or state."
+          },
+          "schoolType": {
+            "label": "School Type",
+            "placeholder": "Select School Type",
+            "options": {
+              "CHARTER": "Charter",
+              "MAGNET": "Magnet",
+              "PRIVATE": "Private",
+              "PUBLIC": "Public"
+            }
+          },
+          "schoolLevel": {
+            "label": "School Level",
+            "placeholder": "Select School Level",
+            "options": {
+              "ELEMENTARY_SCHOOL": "Elementary School",
+              "HIGH_SCHOOL": "High School",
+              "MIDDLE_SCHOOL": "Middle School",
+              "PRESCHOOL": "Preschool"
+            }
+          }
+        },
+        "userInfoForm": {
+          "title": "What's your name?",
+          "subtitle": "Your identity will remain anonymous, but we need this information to maintain the quality of our community with verified professionals.",
+          "hiddenInfo": "Your name and company will be hidden by default.",
+          "firstName": {
+            "label": "First Name",
+            "placeholder": "Enter First Name",
+            "error": "Please enter your first name."
+          },
+          "lastName": {
+            "label": "Last Name",
+            "placeholder": "Enter Last Name",
+            "error": "Please enter your last name."
+          },
+          "company": {
+            "label": "Company Name",
+            "placeholder": "Enter Company Name",
+            "error": "Please enter your company."
+          },
+          "tooltip": {
+            "header": "Why do I have to provide this information?",
+            "content": "The Glassdoor community is built on a foundation of trust. Here, people can ask and answer questions freely, secure in the knowledge that each professional has passed through our verification process.<br><br>That trust extends both ways — we won't reveal your identity to anyone, and you can always choose how you appear when you post."
+          }
+        },
+        "validationForm": {
+          "title": "We've emailed you a 5-digit code",
+          "subtitle": "Please check <strong>[email]</strong> and enter your code here.",
+          "codeSent": "Your code was sent to <strong>[email]</strong>",
+          "resendPin": "Resend Code",
+          "resendInfo": "We resent your verification code. Please check your email or try resending again in a moment.",
+          "invalidPin": "We could not process your request at this time. Please check the entered verification code or try again.",
+          "submitBtn": "Done"
+        },
+        "button": {
+          "next": "Next",
+          "connectAccount": "Connect My Account",
+          "finish": "Finish",
+          "verify": "Verify",
+          "verifyAccount": "Verify Account",
+          "sendCode": "Send Code",
+          "continue": "Continue",
+          "save": "Save"
+        },
+        "accountLinkInfo": {
+          "short": "Connecting your Glassdoor account to Fishbowl will allow accounts to be synced to let you use Fishbowl features within Glassdoor."
+        },
+        "confirmation": {
+          "title": "Welcome to Glassdoor and Fishbowl!",
+          "subtitle": "You can now access both communities with your <strong>[email]</strong> email address.",
+          "subtitleSocialVariant": "You can now post questions and access our community of verified professionals."
+        },
+        "workEmailValidation": {
+          "title": "Confirm your work email to post with your company name",
+          "subtitle": "We'll email you a code to confirm your identity, but you'll remain anonymous and your employer won't know you're here.",
+          "label": "Work Email",
+          "placeholder": "Enter Work Email",
+          "subtext": "You will only need to confirm your email once.",
+          "error": "Please enter a valid email address."
+        },
+        "updateEmployerEmailValidation": {
+          "title": "Please enter your new company email address",
+          "subtitle": "We'll email you a code to confirm your identity, but don't worry—your employer won't be notified.",
+          "label": "Work Email",
+          "verifyEmail": "Please verify your work email",
+          "verificationInfo": "Your employer won't be notified. Once your email is verified, you will have additional choices for how your identity appears.",
+          "verificationEmail": "Email",
+          "placeholder": "Enter Work Email",
+          "subtext": "You will only need to confirm your email once.",
+          "subtextInfo": "This information is kept private",
+          "codeVerification": "You will receive a 5-digit code to verify your email.",
+          "error": "Please enter a valid email address.",
+          "unchangedError": "Oops. We were unable to change your employer. Please verify your work email address and try again."
+        },
+        "updateSchoolEmailValidation": {
+          "title": "Please verify your college or university email",
+          "subtitle": "We'll email you a code to confirm your identity.",
+          "label": "University Email",
+          "verifyEmail": "Please verify your college or university email",
+          "verificationInfo": "We'll email you a code to confirm your identity.",
+          "verificationEmail": "University Email",
+          "placeholder": "Enter University Email",
+          "codeVerification": "You will receive a 5-digit code to verify your email.",
+          "error": "Please enter a valid university email address.",
+          "unchangedError": "Oops. We were unable to change your university. Please verify your university email address and try again."
+        },
+        "addEmployer": {
+          "title": "Add a company",
+          "subtitle": "We couldn't find a company associated with your email address.",
+          "label": "Company Name",
+          "placeholder": "Enter Company Name"
+        },
+        "addSchool": {
+          "title": "Add a college or university",
+          "subtitle": "We couldn't find a college or university associated with your email address.",
+          "label": "University Name",
+          "placeholder": "Enter University Name"
+        },
+        "error": {
+          "generic": "There was an error processing your request. Please try again."
+        },
+        "termsAndPrivacy": "By continuing, you agree to Fishbowl's <a href=\"[termsLink]\" target=\"_blank\">Terms of Use</a> and <a href=\"[privacyLink]\" target=\"_blank\">Privacy Policy</a>",
+        "cookiesDisabled": {
+          "title": "Cookies Required",
+          "description": "Cookies are not enabled on your browser. Please enable cookies in your browser preferences in order to sign in with Google."
+        }
+      }
+    },
+    "continueReading.lastFreePage": "Enjoy this Preview… Register for Free with Glassdoor",
+    "continueReading.pageViewRemaining": "Register for Free to Continue Reading",
+    "previewFreeSignUpToSee": "Sign Up for free to see all [contentType]",
+    "previewFreeSignInToSee": "Sign In for free to see all [contentType]",
+    "hardsell-content-wall.add-to-unlock": "Add your review or salary to unlock everything on Glassdoor",
+    "hardsell-content-wall.add-to-continue": "Add your review or salary to continue using Glassdoor",
+    "hardsell-content-wall.glassdoor-career-community": "Unlock access to millions of reviews, salaries, and interview questions shared by other job seekers.",
+    "hardsell-content-wall.anonymous-only-a-minute": "It's free - you only need to share an anonymous review or a salary from your previous or current employer.",
+    "hardsell-content-wall.no-thanks-later": "No thanks, I'll do this later",
+    "hardsell-content-wall.add-review-or-salary": "Add Review or Salary",
+    "hardsell-content-wall-12mgtg.add-content": "Looks like you haven’t shared anything on Glassdoor in the past 12 months!",
+    "hardsell-content-wall-12mgtg.glassdoor-contribute-anonymously": "To enjoy another <a href=[giveToGetPolicyLink] class=\"highlight\">12 months</a> of access please contribute anonymously to help the community.",
+    "hardsell-content-wall-12mgtg.add-review-or-salary": "Add Review or Salary (2 min)",
+    "hardsell-content-wall-12mgtg.appreciate-previous-submission": "We appreciated your previous submission! To enjoy another <a href=[giveToGetPolicyLink] class=\"highlight\">12 months</a> of access please contribute anonymously to help the community.",
+    "hardsell-content-wall-12mgtg.thank-you-header": "Thanks for continuing to be a valuable member!",
+    "hardsell-content-wall-12mgtg.thank-you-12months-unlimited-access": "You may now enjoy <span class=\"bold\">12 more months of unlimited access</span> to Glassdoor content.",
+    "hardsell-content-wall-12mgtg.thank-you-member-contributions": "Member contributions help ensure that we have enough company, salary, interview, and benefit reviews to share with you and our community.",
+    "hardsell-content-wall-12mgtg.thank-you-continue": "Got it!",
+    "jaCreateAccountCheckEmailMsg": "Find the job you love with your new job alert. You'll soon receive daily job alerts to <span class='darkText'>[email]</span> for <span class='darkText'>[keywords]</span> in <span class='darkText'>[location]</span>.",
+    "jaCreateAccountManageJA": "You can manage your job alerts at any time in your settings.",
+    "jobAlertConsent": "Notify me when similar jobs are available",
+    "lapsed-content-hardsell.contribute-with-link": "To enjoy another <LinkComponent>12 months</LinkComponent> of access please contribute anonymously to help the community."
+  }
+});
