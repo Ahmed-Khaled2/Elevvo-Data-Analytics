@@ -12,25 +12,25 @@ I successfully completed **7 out of 9 tasks**, covering topics like data cleanin
 
 Each project is in its own folder with a detailed README and code/notebooks.  
 
-1. **[Sales Performance Dashboard Using Excel](./Task%201)**  
+1. **[Sales Performance Dashboard Using Excel](./Sales%20Performance%20Dashboard%20Using%20Excel)**  
    Built an interactive Excel dashboard to analyze sales KPIs and performance trends.  
 
-2. **[Exploratory Data Analysis on Titanic Dataset](./Task%202)**  
+2. **[Exploratory Data Analysis on Titanic Dataset](./Exploratory%20Data%20Analysis%20on%20Titanic%20Dataset)**  
    Explored the Titanic dataset with Pandas, NumPy, and Matplotlib to uncover survival insights.  
 
-3. **[Customer Segmentation Using RFM Analysis](./Task%203)**  
+3. **[Customer Segmentation Using RFM Analysis](./Customer%20Segmentation%20Using%20RFM%20Analysis)**  
    Implemented RFM (Recency, Frequency, Monetary) analysis for customer segmentation.  
 
-4. **[Data Cleaning and Insight Generation from Survey Data](./Task%204)**  
+4. **[Data Cleaning and Insight Generation from Survey Data](./Data%20Cleaning%20and%20Insight%20Generation%20from%20Survey%20Data)**  
    Cleaned messy survey data and generated insights through preprocessing and visualization.  
 
-5. **[SQL-Based Analysis of Product Sales](./Task%205)**  
+5. **[SQL-Based Analysis of Product Sales](./SQL-Based%20Analysis%20of%20Product%20Sales)**  
    Wrote SQL queries to analyze product sales, trends, and customer behavior.  
 
-6. **[Web Scraping and Analysis of Job Postings](./Task%206)**  
+6. **[Web Scraping and Analysis of Job Postings](./Web%20Scraping%20and%20Analysis%20of%20Job%20Postings)**  
    Scraped job data from online sources and analyzed demand for data-related roles.  
 
-7. **[Power BI Dashboard for Retail Insights](./Task%208)**  
+7. **[Power BI Dashboard for Retail Insights](./Power%20BI%20Dashboard%20for%20Retail%20Insights)**  
    Built an interactive Power BI dashboard to track retail performance and KPIs.  
 
 ---
